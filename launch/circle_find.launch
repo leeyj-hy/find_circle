@@ -1,0 +1,5 @@
+<launch>
+
+<node name = "find_circle" pkg = "find_circle" type = "circle_find" output = "screen"/>
+
+</launch>
